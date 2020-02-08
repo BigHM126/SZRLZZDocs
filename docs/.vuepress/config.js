@@ -23,6 +23,7 @@ module.exports = {
         text: '操作手册',
         ariaLabel: '产品系列',
         items: [
+          { text: 'MOM', link: '/products/mom/' },
           { text: 'MES', link: '/products/mes/' },
           { text: 'WMS', link: '/products/wms/' },
           { text: 'QMS', link: '/products/qms/' },
