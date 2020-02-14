@@ -7,7 +7,7 @@ V3.0 操作手册，给予用户准确、明晰、简介的系统使用指导和
 
 ## 总体业务流程
 
-![](media/8bdad4aa1ab55e259fd122115926f48a.png)
+![](./assets/media/8bdad4aa1ab55e259fd122115926f48a.png)
 
 ## MES3.0 登录
 
