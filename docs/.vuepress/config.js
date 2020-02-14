@@ -14,9 +14,10 @@ module.exports = {
         ariaLabel: '安装指南',
         items: [
           { text: '部署方案', link: '/deploy/' },
-          { text: '用友OEM版本', link: '/installoem/' },
-          { text: 'R9标准版本', link: '/install/' },
-          { text: '初始化配置', link: '/setting/' }
+          { text: 'OEM产品', link: '/installoem/' },
+          { text: '标准产品', link: '/install/' },
+          { text: 'APP应用', link: '/installapp/' },
+          { text: '初始化', link: '/setting/' }
         ]
       },
       {

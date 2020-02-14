@@ -24,3 +24,7 @@ git commit -m 'deploy docs'
 git push -f git@github.com:BigHM126/szrlzzdocs.git master:gh-pages
 
 cd -
+
+
+2c8ffac03ddce594ee526c0e1d822eb9e725deb8
+curl -H "Authorization: token **2c8ffac03ddce594ee526c0e1d822eb9e725deb8**" https://api.travis-ci.org/v3/repo/travis-ci%2ftravis-build/key_pair/generated
