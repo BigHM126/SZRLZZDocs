@@ -24,11 +24,11 @@ module.exports = {
         text: '操作手册',
         ariaLabel: '产品系列',
         items: [
-          { text: 'MOM', link: '/products/mom/' },
-          { text: 'MES', link: '/products/mes/' },
-          { text: 'WMS', link: '/products/wms/' },
-          { text: 'QMS', link: '/products/qms/' },
-          { text: '其他', link: '/products/others/' }
+          { text: 'MOM', link: '/mom/' },
+          { text: 'MES', link: '/mes/' },
+          { text: 'WMS', link: '/wms/' },
+          { text: 'QMS', link: '/qms/' },
+          { text: '其他', link: '/others/' }
         ]
       },
       { text: '平台', link: '/ecaf/' },
