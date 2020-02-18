@@ -32,7 +32,7 @@
 
 ### 产品结构
 
-![产品框图OEM](/media/YonyouOEM-BlockDiagram.png)
+<img :src="$withBase('/media/YonyouOEM-BlockDiagram.png')" alt="产品框图R9">
 用友OEM产品由如下产品和应用构成：
 
 - 应用平台：
@@ -47,7 +47,7 @@
   - 云打印插件；按需下载安装，免费使用；
 
 - 第三方应用：
-  - JasperStudio条码和报表打印设计软件；按需下载安装，免费使用；详细操作请参阅[Jasper设计参考](/printformat)
+  - JasperStudio条码和报表打印设计软件；按需下载安装，免费使用；详细操作请参阅[Jasper设计参考](/printformat/)
   
 :::tip 提示
 
@@ -109,7 +109,8 @@ WMS\QMS 需要配合兼容安卓 V4.4 以上版本的手持终端、工业平板
 本预览环境基于用友U8+V13.0ERP，我们假设登录者已经充分掌握ERP端的基础操作和业务流程。其它ERP环境的MES\WMS\QMS等智能工厂产品，操作类似，不单独提供。有任何需要可单独咨询。
 :::
 
-> 演示账套为:666测试账套，日期选择当天日期； <br/>账号和密码分别为： demo/demo <br/>
+> 演示账套为:666测试账套，日期选择当天日期；
+> 账号和密码分别为： demo/demo
 > 如提示账户已登录，请使用demo01~demo10间的任一账号登录，密码为demo；
 > 有其它任何问题，请添加[企业微信](深圳市瑞联智造科技有限公司)索取更多资料。
 
@@ -123,7 +124,8 @@ WMS\QMS 需要配合兼容安卓 V4.4 以上版本的手持终端、工业平板
 - [生产四分图形看板](http://demo.r9.szrlzz.com/6.html)
 
 3. 【需定制开发】综合大屏
-![大屏展示](/demoLSD.png)
+
+<img :src="$withBase('/demoLSD.png')" alt="大屏展示">
 
 :::tip 操作提示
 以上所有演示数据为模拟数据，不与任何实体企业相关，如有巧合前联络我们删除或修改。想了解更多，请咨询 [在线专家]() 或[当地伙伴](/partner)
@@ -177,7 +179,7 @@ WMS\QMS 需要配合兼容安卓 V4.4 以上版本的手持终端、工业平板
     > 如：ecaf-printer-x64.zip
 
 - 历史版本
-  请联络管理员 admin@szrlzz.com
+  请联络管理员 rlzz@szrlzz.com
 
 下载链接：[官方/本站](http://download.szrlzz.com)
 
@@ -202,7 +204,7 @@ WMS\QMS 需要配合兼容安卓 V4.4 以上版本的手持终端、工业平板
   - 检验单格式
 - 实施文档
 
-> 按需下载安装，免费使用；详细操作请参阅[Jasper设计参考](/printformat)
+> 按需下载安装，免费使用；详细操作请参阅[Jasper设计参考](/printformat/)
 
 ## 部署方案
 
