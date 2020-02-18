@@ -56,7 +56,7 @@
 3. 兼容性硬件不在产品套装中，需另外购买；
 :::
 
-![产品框图R9](/media/R9-BlockDiagram.png)
+<img :src="$withBase('/media/R9-BlockDiagram.png')" alt="产品框图R9">
 R9标准产品系列由如下构成：
 
 - 应用平台：

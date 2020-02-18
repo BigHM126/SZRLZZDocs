@@ -38,9 +38,9 @@ module.exports = {
         ],
         sidebar: 'auto',
         /*     algolia: {
-              apiKey: '<API_KEY>',
-              indexName: '<INDEX_NAME>'
-            } */
+                  apiKey: '<API_KEY>',
+                  indexName: '<INDEX_NAME>'
+                } */
         lastUpdated: '最后更新时间', // string | boolean
 
         // 假定是 GitHub. 同时也可以是一个完整的 GitLab URL
